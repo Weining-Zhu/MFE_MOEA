@@ -1,18 +1,11 @@
 # MFE_MOEA
 
-本仓库提供相关研究的补充数据和统计分析结果。
+This repository provides supplementary research data and statistical results.
 
-## 仓库文件说明
+## Repository Contents
 
 ### 1. DataSet.zip
-
-包含 Philadelphia 口袋公园案例研究所使用的数据集，包括候选项目数据和实验测试实例。
+Contains the dataset used in the Philadelphia pocket-park case study, including the candidate project data and the experimental test instances.
 
 ### 2. Wilcoxon_Test.xlsx
-
-包含实验对比中使用的 Wilcoxon 统计检验结果，用于检验不同实验结果之间差异的统计显著性。
-
-## 联系方式
-
-如需了解更多信息，请联系：
-
+Contains the Wilcoxon statistical test results used to examine the significance of differences in the experimental comparisons.
